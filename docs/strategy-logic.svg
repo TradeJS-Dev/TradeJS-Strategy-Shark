@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+  <title id="title">Bullish and bearish Shark pattern logic</title>
+  <desc id="desc">Mirrored OXABC harmonic patterns with AB over XA, BC over AB, and XC over OX ratios.</desc>
+  <rect width="1200" height="520" fill="#ffffff" />
+  <text x="300" y="42" text-anchor="middle" font-family="system-ui, sans-serif" font-size="24" font-weight="700" fill="#111827">Bullish Shark</text>
+  <text x="900" y="42" text-anchor="middle" font-family="system-ui, sans-serif" font-size="24" font-weight="700" fill="#111827">Bearish Shark</text>
+
+  <g fill="none" stroke="#0f6fb5" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <polyline points="70,390 175,105 285,270 405,80 535,405" />
+    <polyline points="665,105 775,390 885,225 1005,415 1135,90" />
+  </g>
+
+  <g fill="none" stroke="#64748b" stroke-width="2" stroke-dasharray="8 7">
+    <line x1="175" y1="105" x2="405" y2="80" />
+    <line x1="285" y1="270" x2="535" y2="405" />
+    <line x1="70" y1="390" x2="535" y2="405" />
+    <line x1="775" y1="390" x2="1005" y2="415" />
+    <line x1="885" y1="225" x2="1135" y2="90" />
+    <line x1="665" y1="105" x2="1135" y2="90" />
+  </g>
+
+  <g font-family="system-ui, sans-serif" font-size="22" font-weight="700" fill="#111827">
+    <text x="45" y="420">O</text>
+    <text x="160" y="94">X</text>
+    <text x="265" y="300">A</text>
+    <text x="398" y="68">B</text>
+    <text x="538" y="432">C</text>
+    <text x="645" y="94">O</text>
+    <text x="760" y="420">X</text>
+    <text x="865" y="212">A</text>
+    <text x="998" y="445">B</text>
+    <text x="1138" y="80">C</text>
+  </g>
+
+  <g font-family="system-ui, sans-serif" font-size="17" font-weight="600" fill="#334155">
+    <text x="270" y="72" text-anchor="middle">AB / XA = 1.13–1.618</text>
+    <text x="405" y="310" text-anchor="middle">BC / AB = 1.618–2.24</text>
+    <text x="305" y="388" text-anchor="middle">XC / OX = 0.886–1.13</text>
+    <text x="890" y="452" text-anchor="middle">AB / XA = 1.13–1.618</text>
+    <text x="1010" y="245" text-anchor="middle">BC / AB = 1.618–2.24</text>
+    <text x="900" y="82" text-anchor="middle">XC / OX = 0.886–1.13</text>
+  </g>
+
+  <g fill="none" stroke="#111827" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 535 405 C 552 365, 568 335, 585 300" />
+    <polyline points="571,310 585,300 588,317" />
+    <path d="M 1135 90 C 1150 130, 1165 160, 1180 195" />
+    <polyline points="1167,185 1180,195 1181,178" />
+  </g>
+
+  <g font-family="system-ui, sans-serif" font-size="16" fill="#475569">
+    <text x="300" y="485" text-anchor="middle">Entry after the C low is confirmed</text>
+    <text x="900" y="485" text-anchor="middle">Entry after the C high is confirmed</text>
+  </g>
+</svg>
