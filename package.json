@@ -1,6 +1,6 @@
 {
   "name": "@tradejs/strategy-shark",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Bullish and bearish 0XABC Shark harmonic reversal strategy for TradeJS.",
   "type": "module",
   "packageManager": "yarn@4.13.0",
